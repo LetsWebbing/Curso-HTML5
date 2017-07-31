@@ -1,6 +1,7 @@
 # Curso-HTML5
-Curso básico de HTML5 creado por [Let's Webbing](https://letswebbing.com/)
-@Licencia: This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Curso básico de HTML5 creado por **[Let's Webbing](https://letswebbing.com/)**.
+
+**@Licencia**: This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 
 # Introducción a HTML 5
