@@ -3,7 +3,7 @@ Curso básico de HTML5 (curso de iniciación)
 
 
 # Introducción a HTML 5
-Las siglas de 'HTML' significan 'Hypertext Markup Language'. Es decir, HTML es en lenguaje de marcado, no es un lenguaje de programación.
+> Las siglas de **HTML** significan **Hypertext Markup Language**. Es decir, HTML es en lenguaje de marcado, no es un lenguaje de programación.
 
 ¿Qué quiere decir? Que el código HTML sirve para definir la estructura y la semántica de nuestra página web. Por ejemplo, HTML es el código que usamos para escribir un título, un menú, una tabla, un enlace, una imagen, etc, etc. pero no para definir, por ejemplo qué diseño tendrá ese contenido(texto en negrita, imagen mas grande o pequeña, titulo centrado, etc).
 
